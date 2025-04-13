@@ -1,6 +1,6 @@
-# RL download-open-rfm-full-list Cloud Function
+# RL lib-downloader-open-rfm-full-list Cloud Function
 
-Либа довнЛоадера открытого перечня РФМ
+Либа DownLoader-а открытого перечня РФМ
 
 ## Настройка окружения.
 

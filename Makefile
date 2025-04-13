@@ -4,7 +4,7 @@
 PROJECT_NAME = lib-downloader-open-rfm-full-list
 NETWORK_NAME ?= production_default
 
-# Путь к Docker-образу в container registry ПОКА НА ОСНОВЕ УЗБЕКОВ, ПОТОМ СДЕЛАЕМ КАК НАДО
+# Путь к Docker-образу в container registry
 REGISTRY_IMAGE = cr.yandex/crpfo3k0vaqi88j7921p/cloud-functions/uzbekistan-terrorists-parsing
 
 # Версия составляется по приоритету git tag > branch > commit
